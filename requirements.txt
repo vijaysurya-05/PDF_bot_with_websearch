@@ -12,3 +12,4 @@ sentence-transformers
 groq
 duckduckgo-search
 requests 
+protobuf==5.29.5
